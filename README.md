@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://jeffersonkilonzo.netlify.com/](https://jeffersonkilonzo.netlify.com/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript and Python**
-
 - 📄 Know about my experiences [https://jeffersonk.netlify.app/](https://jeffersonk.netlify.app/)
 
 - ⚡ Fun fact **I'm funny..haha**
