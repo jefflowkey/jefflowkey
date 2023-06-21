@@ -28,16 +28,14 @@
         <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jefflowkey&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="jefflowkey" /></p>
     </div>
 
-    <!--
+<!---
         <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jefflowkey&show_icons=true&locale=en&theme=highcontrast" alt="jefflowkey" /></p>
-    -->
+    --->
 
-    <div style="width: 66.67%;">
+   <div style="width: 66.67%;">
         <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jefflowkey&](https://streak-stats.demolab.com?user=jefflowkey&theme=highcontrast&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=500&fire=FF044F&stroke=00FFFF&ring=00FFFF&sideNums=FF044F&currStreakNum=FF044F&currStreakLabel=FF044F&sideLabels=00FFFF&dates=FFFFFF)" alt="jefflowkey" /></p>
     </div>
 </div>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jefflowkey&](https://streak-stats.demolab.com?user=jefflowkey&theme=highcontrast&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=500&fire=FF044F&stroke=00FFFF&ring=00FFFF&sideNums=FF044F&currStreakNum=FF044F&currStreakLabel=FF044F&sideLabels=00FFFF&dates=FFFFFF)" alt="jefflowkey" /></p>
 
 
 <!---
