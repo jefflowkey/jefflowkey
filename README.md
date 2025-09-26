@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, name's Jeff</h1>
-<h3 align="center">I’m interested in web developement, data analysis, software development and database/cloud operations.</h3>
+<h3 align="center">I’m interested in web developement, data analysis, software development and cloud/network engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jefflowkey&label=Profile%20views&color=0e75b6&style=flat" alt="jefflowkey" /> </p>
 
@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently learning **python and its libraries as well as its frameworks for data analytics.**
 
-- 👨‍💻 All of my projects are available at [https://jeffersonkilonzo.netlify.com/](https://jeffersonkilonzo.netlify.com/)
+- 👨‍💻 All of my projects are available at [here](https://intellisphere.cloud)
 
-- 📄 Know about my experiences [https://jeffersonk.netlify.app/](https://jeffersonk.netlify.app/)
-
-- ⚡ Fun fact **I'm funny..haha**
+<!-- 📄 Know about my experiences [https://jeffersonk.netlify.app/](https://jeffersonk.netlify.app/) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
