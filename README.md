@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, name's Jeff</h1>
-<h3 align="center">I’m into web developement, data analysis, software development and cloud/network engineering.</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Jeff+%F0%9F%91%8B;Web+Developer;Cloud+Engineer" alt="Typing SVG" />
+</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jefflowkey&label=Profile%20views&color=0e75b6&style=flat" alt="jefflowkey" /> </p>
 
