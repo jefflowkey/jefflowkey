@@ -36,13 +36,10 @@ My expertise lies at the intersection of infrastructure and user experience. As 
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=redhat" width="48" height="48" alt="Red Hat" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /></a>
 </p>
 
 <h3 align="center">🗄️ Databases</h3>
@@ -57,6 +54,7 @@ My expertise lies at the intersection of infrastructure and user experience. As 
 <h3 align="center">🛜 Networking & Cybersecurity</h3>
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=ansible" width="48" height="48" alt="Ansible" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Kali Linux" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" /></a>
 </p>
@@ -68,6 +66,7 @@ My expertise lies at the intersection of infrastructure and user experience. As 
   <a href="#"><img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /></a>
@@ -75,6 +74,7 @@ My expertise lies at the intersection of infrastructure and user experience. As 
   <a href="#"><img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=sequelize" width="48" height="48" alt="Sequelize" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" /></a>
 </p>
 
