@@ -32,45 +32,53 @@ My expertise lies at the intersection of infrastructure and user experience. As 
 <div align="center">
   <h2>🛠️ Tech Stack</h2>
 
- <h3 align="center">Web Development</h3>
+<h3 align="center">🌩️ Cloud & DevOps</h3>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="html" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="javascript" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="wordpress" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /></a>
 </p>
 
-<h3 align="center">Network ,,,</h3>
+<h3 align="center">🛜 Networking & Cybersecurity</h3>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="ruby" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="rails" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="python" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="sqlite" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="postgresql" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Kali Linux" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=ansible" width="48" height="48" alt="Ansible" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /></a>
 </p>
 
-<h3 align="center">Cloud ,,,,</h3>
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /></a>
 </p>
 
-<h3 align="center">Tools & Technologies</h3>
+<h3 align="center">🛠️ Tools & Technologies</h3>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="github" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vscode" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="netlify" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=heroku" width="48" height="48" alt="heroku" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=ansible" width="48" height="48" alt="Ansible" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /></a>
 </p>
-</div>
+
 
 
 
