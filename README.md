@@ -122,6 +122,7 @@ My expertise lies at the intersection of infrastructure and user experience. As 
 
 <br/>
 
+<!--
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
@@ -131,3 +132,4 @@ My expertise lies at the intersection of infrastructure and user experience. As 
 <div align="center">
   <img src="https://raw.githubusercontent.com/AlexIrungu/AlexIrungu/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+-->
