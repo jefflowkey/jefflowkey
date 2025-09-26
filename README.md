@@ -61,6 +61,7 @@ My expertise lies at the intersection of infrastructure and user experience. As 
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" /></a>
