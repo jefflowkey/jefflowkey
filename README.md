@@ -103,8 +103,9 @@ My expertise lies at the intersection of infrastructure and user experience. As 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefflowkey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" alt="Top Languages" height="200"/>
 </p>
-  
+  <!--
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jefflowkey&theme=highcontrast&date_format=j%20M%5B%20Y%5D&type=png&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+  -->
 </div>
 
 <br/>
