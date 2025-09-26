@@ -32,17 +32,18 @@ My expertise lies at the intersection of infrastructure and user experience. As 
 <div align="center">
   <h2>🛠️ Tech Stack</h2>
 
- <h3 align="center">Frontend</h3>
+ <h3 align="center">Web Development</h3>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="javascript" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="html" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="html" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="javascript" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="wordpress" /></a>
 </p>
 
-<h3 align="center">Backend</h3>
+<h3 align="center">Network ,,,</h3>
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="ruby" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="rails" /></a>
@@ -51,7 +52,7 @@ My expertise lies at the intersection of infrastructure and user experience. As 
   <a href="#"><img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="postgresql" /></a>
 </p>
 
-<h3 align="center">Data Science</h3>
+<h3 align="center">Cloud ,,,,</h3>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"></a>
   <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
