@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, name's Jeff</h1>
-<h3 align="center">I’m interested in web developement, data analysis, software development and cloud/network engineering.</h3>
+<h3 align="center">I’m into web developement, data analysis, software development and cloud/network engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jefflowkey&label=Profile%20views&color=0e75b6&style=flat" alt="jefflowkey" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jefflowkey" alt="jefflowkey" /></a> </p>
 
-- 🌱 I’m currently learning **python and its libraries as well as its frameworks for data analytics.**
+- 🌱 I’m currently learning React JS for frontend development.
 
 - 👨‍💻 All of my projects are available at [here](https://intellisphere.cloud)
 
