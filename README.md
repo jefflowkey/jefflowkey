@@ -56,6 +56,7 @@ My expertise lies at the intersection of infrastructure and user experience. As 
   <a href="#"><img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /></a>
 </p>
 
+<h3 align="center">🌐 Web Development</h3>
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /></a>
