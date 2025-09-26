@@ -23,7 +23,7 @@
 <div align="center">
   <h2>💫 About Me</h2>
   <p>
-    Full Stack Developer passionate about crafting elegant solutions to complex problems. With expertise in both front-end and back-end development, I create scalable applications that deliver exceptional user experiences. When I'm not coding, you can find me gaming or exploring new technologies. 🎮
+My expertise lies at the intersection of infrastructure and user experience. As a Cloud Consultant and Network Engineer, I ensure robust scalability and security at the foundational level. As a Front-End Developer, I translate complex requirements into accessible, high-performance web applications. I'm passionate about solving intricate problems and delivering polished results across the entire stack. Always exploring new tech trends, and you'll find me gaming in my downtime.
   </p>
 </div>
 
